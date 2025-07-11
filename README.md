@@ -22,7 +22,7 @@ A web-based application that enables users to search recipes by keywords, ingred
 - docker-compose
 
 ### Check out this repository
-`git clone git@github.com:wildalaskan/skeleton-app.git`
+`git clone git@github.com:coopers98/recipe-search-3000.git`
 
 `cd skeleton-app`
 
