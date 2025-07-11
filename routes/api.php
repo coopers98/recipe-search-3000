@@ -17,3 +17,7 @@ use Illuminate\Support\Facades\Route;
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
+
+// Recipe routes
+Route::get('/recipes', [App\Http\Controllers\RecipeController::class, 'index']);
+Route::get('/recipes/{slug}', [App\Http\Controllers\RecipeController::class, 'show']);
