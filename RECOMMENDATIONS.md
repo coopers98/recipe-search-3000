@@ -1,6 +1,6 @@
 # Recipe Search 3000 - Recommendations for Future Improvements
 
-There are potential improvements and enhancements that can be made to the Recipe Search 3000 application. This document outlines recommendations for both backend and frontend development, testing, DevOps, and documentation.
+There are potential improvements and enhancements that can be made to the Recipe Search 3000 application.
 
 ## Backend Improvements
 
